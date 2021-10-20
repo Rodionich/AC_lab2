@@ -1,0 +1,4 @@
+/home/rodion/projects/ac_lab2/build/CMakeFiles/rebuild_cache.dir
+/home/rodion/projects/ac_lab2/build/CMakeFiles/edit_cache.dir
+/home/rodion/projects/ac_lab2/build/CMakeFiles/main.dir
+/home/rodion/projects/ac_lab2/build/CMakeFiles/calculator.dir

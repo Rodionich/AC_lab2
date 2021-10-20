@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/calculator.h
+
+/home/rodion/projects/ac_lab2/src/main.cpp
+calculator.h
+/home/rodion/projects/ac_lab2/src/calculator.h
+iostream
+-
+
